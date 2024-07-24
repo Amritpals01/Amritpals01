@@ -1,11 +1,9 @@
 #<h1 align="center">Hi 👋, I'm Amritpal singh</h1>
-<h3 align="center">Software Developer | Flutter | Python | Full Stack |rom India</h3>
+<h3 align="center">Software Developer | Flutter | Python | Full Stack |from India</h3>
 
 - 🌱 I’m currently learning **Next js , Rust ,**
 
 - 👯 I’m looking to collaborate on **Full stack**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-amritpals01s-projects.vercel.app/](https://portfolio-amritpals01s-projects.vercel.app/)
 
 - 💬 Ask me about **react , python , javascript ,mongodb**
 
