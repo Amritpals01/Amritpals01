@@ -15,7 +15,3 @@
 <a href="https://fb.com/amritpal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amritpal singh" height="30" width="40" /></a>
 <a href="https://instagram.com/i_ammy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_ammy01" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritpals01&show_icons=true&locale=en&layout=compact" alt="amritpals01" /></p>
