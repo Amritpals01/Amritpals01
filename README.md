@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Amritpal singh</h1>
+<h1 align="center">Hi, I'm Amritpal singh</h1>
 <h3 align="center">| ReactNative| Flutter | Full Stack | Mobile Dev |</h3>
 
 - 🌱 I’m currently learning JAVA+DSA
