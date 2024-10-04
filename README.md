@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Amritpal singh</h1>
 <h3 align="center">| ReactNative| Flutter | Full Stack | Mobile Dev |</h3>
 
-- 🌱 I’m currently learning JAVA+DSA
+- 🌱 I’m currently learning: JAVA+DSA
 
-- 👯 I’m looking to collaborate on Full stack
+- 👯 I’m looking to collaborate on: Full stack
 
-- 📫 How to reach me amritpal15k@gmail.com
+- 📫 How to reach me: amritpal15k@gmail.com
 
-- 📄 Know about my experiences [https://portfolio-amritpals01s-projects.vercel.app/](https://portfolio-amritpals01s-projects.vercel.app/)
+- 📄 Know about my experiences: [https://portfolio-amritpals01s-projects.vercel.app/](https://portfolio-amritpals01s-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
