@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: amritpal15k@gmail.com
 
-- 📄 Know about my experiences: [https://portfolio-amritpals01s-projects.vercel.app/](https://portfolio-amritpals01s-projects.vercel.app/)
+- 📄 Know about my experiences: [https://portfolio-amritpals01s-projects.vercel.app/](https://amritpal.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
