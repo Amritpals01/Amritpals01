@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritpal singh</h1>
-<h3 align="center">Software Developer | Flutter | Python | Full Stack | From 🇨🇦</h3>
+<h3 align="center">Software Developer | Flutter | Full Stack | From 🇨🇦</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritpals01" alt="amritpals01" /></a> </p>
 
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **Full stack**
   
 - 📫 How to reach me **amritpal15k@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-amritpals01s-projects.vercel.app/](https://portfolio-amritpals01s-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
