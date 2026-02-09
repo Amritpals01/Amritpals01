@@ -1,9 +1,14 @@
-<h1 align="center">Hi, I'm Amritpal singh</h1>
-<h3 align="center">Turning coffee into code since 2020.</h3>
-
-
-
-![giphy](https://github.com/user-attachments/assets/1bd957ba-bb68-4097-88d6-ecc31c73fd50)
+<table border="0">
+  <tr>
+    <td>
+      <h1>Hi, I'm Amritpal singh</h1>
+      <p><b>Turning coffee into code since 2020.</b></p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/1bd957ba-bb68-4097-88d6-ecc31c73fd50" width="300">
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
