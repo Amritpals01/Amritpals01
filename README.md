@@ -2,8 +2,7 @@
 <h3 align="center">Turning coffee into code since 2020.</h3>
 
 
-# 💫 About Me:
-🌱 Full-stack developer passionate about creating seamless digital experiences.<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>
+
 ![giphy](https://github.com/user-attachments/assets/1bd957ba-bb68-4097-88d6-ecc31c73fd50)
 
 
