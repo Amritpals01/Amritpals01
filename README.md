@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Amritpal singh</h1>
-<h3 align="center">Software Developer | Flutter | Full Stack | From 🇨🇦</h3>
+<h3 align="center">Turning coffee into code since 2020.</h3>
 
 
 # 💫 About Me:
-🌱 Turning coffee into code since 2020. Full-stack developer passionate about creating seamless digital experiences.<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>
+🌱 Full-stack developer passionate about creating seamless digital experiences.<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>
 
 
 ## 🌐 Socials:
