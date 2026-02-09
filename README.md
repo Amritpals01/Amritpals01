@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **DSA**<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>
+🌱 Turning coffee into code since 2020. Full-stack developer passionate about creating seamless digital experiences.<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>
 
 
 ## 🌐 Socials:
