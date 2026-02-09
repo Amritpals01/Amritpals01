@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **DSA**<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>  <br>- 📫 How to reach me **amritpal15k@gmail.com**
+🌱 I’m currently learning **DSA**<br><br>- 👯 I’m looking to collaborate on **Full stack**<br>
 
 
 ## 🌐 Socials:
