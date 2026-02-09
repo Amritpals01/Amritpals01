@@ -1,9 +1,9 @@
-<<h1 align="center">Hi, I'm Amritpal singh</h1>
+<h1 align="center">Hi, I'm Amritpal singh</h1>
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="left">
-      <h3><b>Turning coffee into code since 2020.</b></h3>
+    <td width="50%" align="left" valign="middle">
+      <h1><b><font size="7">Turning coffee into code since 2020.</font></b></h1>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/1bd957ba-bb68-4097-88d6-ecc31c73fd50" width="100%">
